@@ -1,0 +1,12 @@
+
+
+#primera pestaña terminal
+npm i  
+npm run dev(crea vite )
+
+
+##segunda pestaña terminal 
+
+
+
+npx json-server data.json
